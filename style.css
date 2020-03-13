@@ -1,0 +1,15 @@
+h1{
+	color:red;
+}
+h2 {
+	color:blue;
+}
+.block {
+	background:#ff0000;
+	padding:10px 10px 30px 40px;
+	margin:20px 20px 20px 20px;
+
+}
+a {
+	font-size:30px;
+}
