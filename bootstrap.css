@@ -1,0 +1,16 @@
+.carousel {
+	width:600px;
+	height: 300px;
+	overflow: hidden;
+}
+
+.carousel-control-prev-icon {
+    background-image: url(https://www.freepngimg.com/thumb/web_design/24699-1-left-arrow-file.png);
+    filter: invert(1);
+
+}
+
+.carousel-control-next-icon {
+    background-image: url(http://cdn.onlinewebfonts.com/svg/img_384596.png);
+    filter: invert(1);
+}

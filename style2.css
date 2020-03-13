@@ -1,0 +1,51 @@
+h1 {
+	font-size: 35px;
+	text-transform: uppercase;
+	color:black;
+}
+
+.parent {
+	position: relative;
+	width: 100px;
+	height:100px;
+	background: yellow;
+	display: list-item;
+	border: 1px dashed #ff0000;
+}
+.child-1{
+	width: 20px;
+	height: 20px;
+	background: red;
+position: absolute;
+top: 20px;
+right:20px;}
+
+.child-2{
+	width: 20px;
+	height: 20px;
+	background: blue;
+	position: absolute;
+	bottom: 10px;
+	left:10px;
+
+}
+table{
+	border:2px dotted blue ;
+}
+td{
+	border:1px dotted red ;
+}
+th{
+	border:1px dotted green ;
+}
+.my{
+	background:yellow;
+
+}
+.white{
+	background:red;
+	color:white;
+	font-style: italic;
+	font-weight: bold;
+	font-family: "Arial"
+}
